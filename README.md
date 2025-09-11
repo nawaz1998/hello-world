@@ -1,4 +1,4 @@
 # hello-world
-this is for practaing repository on github
-i am trying to  be a cloud engineer
-i am a grad at liberty global
+This is for practicing repository on Github
+I am trying to  be a cloud engineer
+I am a grad at liberty global
